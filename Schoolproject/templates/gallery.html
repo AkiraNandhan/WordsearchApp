@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+<html>
+<head>
+    <title>Gallery page</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+</head>
+
+<body style="background-color: #ff192f">
+{% block  content %}
+    <br>
+    <center><h1><u><em>Our Gallery</em></u></h1></center>
+    <div class="container bg-danger">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{% static  'img/new1.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+            <div class="col-md-6">
+                <img class="" src="{% static  'img/new2.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{% static  'img/new3.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+            <div class="col-md-6">
+                <img class="" src="{% static  'img/new4.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{% static  'img/save1.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+            <div class="col-md-6">
+                <img class="" src="{% static  'img/save2.png' %}" style="width: 100%;border-radius: 50%">
+            </div>
+        </div>
+        <br> <br>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{% static  'img/save4.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+            <div class="col-md-6">
+                <img src="{% static  'img/save5.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+        </div>
+        <br><br>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{% static  'img/save6.jpg' %}" style="width: 100% ; height: 10cm;border-radius: 50%">
+            </div>
+            <div class="col-md-6">
+                <img src="{% static  'img/save7.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{% static  'img/save8.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+            <div class="col-md-6">
+                <img src="{% static  'img/save9.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+        </div>
+        <br><br>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{% static  'img/save11.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+            <div class="col-md-6">
+                <img src="{% static  'img/save12.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{% static  'img/save13.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+            <div class="col-md-6">
+                <img src="{% static  'img/save15.jpg' %}" style="width: 100%;border-radius: 50%">
+            </div>
+        </div>
+    </div>
+    <br>
+
+
+
+
+
+
+{% endblock %}
+</body>
+</html>

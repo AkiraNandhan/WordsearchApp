@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47deca2b-5acb-4224-9fd6-b12e69c8a723" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QOL22IOpYUbHOEKxVTgInuSjwc" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AssetMProduction" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Raja_python_dj\Dj6pmApril\Schoolproject\static\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.Schoolproject">
+    <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Schoolproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Schoolproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Schoolproject/urls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Schoolproject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Schoolproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Schoolproject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.urls" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47deca2b-5acb-4224-9fd6-b12e69c8a723" name="Default Changelist" comment="" />
+      <created>1567636484938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567636484938</updated>
+      <workItem from="1567636488013" duration="3064000" />
+      <workItem from="1567644944241" duration="3412000" />
+      <workItem from="1567653862876" duration="8951000" />
+      <workItem from="1567704716600" duration="1350000" />
+      <workItem from="1567732824456" duration="14693000" />
+      <workItem from="1567997789459" duration="2158000" />
+      <workItem from="1568060549438" duration="3047000" />
+      <workItem from="1568082422769" duration="3523000" />
+      <workItem from="1568089143312" duration="1825000" />
+      <workItem from="1568150865105" duration="11113000" />
+      <workItem from="1568168911368" duration="5546000" />
+      <workItem from="1568179090765" duration="935000" />
+      <workItem from="1568269697514" duration="775000" />
+      <workItem from="1568313048455" duration="21407000" />
+      <workItem from="1568392447573" duration="719000" />
+      <workItem from="1568481702109" duration="17245000" />
+      <workItem from="1568518661310" duration="2009000" />
+      <workItem from="1568522284811" duration="9897000" />
+      <workItem from="1568581254663" duration="2351000" />
+      <workItem from="1568740453024" duration="6294000" />
+      <workItem from="1568781281175" duration="8663000" />
+      <workItem from="1568830095421" duration="700000" />
+      <workItem from="1568863829349" duration="10665000" />
+      <workItem from="1569120587471" duration="292000" />
+      <workItem from="1569655076794" duration="2083000" />
+      <workItem from="1569692526026" duration="1239000" />
+      <workItem from="1569712569353" duration="621000" />
+      <workItem from="1569817470598" duration="3248000" />
+      <workItem from="1570043332532" duration="2313000" />
+      <workItem from="1570399956736" duration="643000" />
+      <workItem from="1570403002215" duration="430000" />
+      <workItem from="1570404007800" duration="10697000" />
+      <workItem from="1570510615587" duration="770000" />
+      <workItem from="1570555859085" duration="1246000" />
+      <workItem from="1570726784992" duration="1437000" />
+      <workItem from="1570757007631" duration="2340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Schoolproject$urls.coverage" NAME="urls Coverage Results" MODIFIED="1567640145865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Schoolproject" />
+  </component>
+</project>
