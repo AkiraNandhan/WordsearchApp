@@ -2,6 +2,8 @@ from django.db import models
 import os
 
 class MyObject(models.Model):
+    name=models.CharField(Max_length=100)
+    email=models.CharField()
 
     image_url = models.CharField()
 
